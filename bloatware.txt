@@ -1,4 +1,4 @@
 #<block-bloatware>
-get-rich-content.com
-trk.gwpads.com
+127.0.0.1 get-rich-content.com
+127.0.0.1 trk.gwpads.com
 #</block-bloatware>
